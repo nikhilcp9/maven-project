@@ -7,4 +7,4 @@ https://www.level-up.one/devops-pdf-book
 
 Hi, this is for CI and CD
 Hello World & all
-Good Morning
+Today is Sept 26th
